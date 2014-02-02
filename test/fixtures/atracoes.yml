@@ -1,0 +1,13 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  atr_nome: MyString
+  atr_data_lancamento: 2014-02-02
+  atr_sinopse: MyText
+  atr_censura: 1
+
+two:
+  atr_nome: MyString
+  atr_data_lancamento: 2014-02-02
+  atr_sinopse: MyText
+  atr_censura: 1
